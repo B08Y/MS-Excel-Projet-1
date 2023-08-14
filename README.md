@@ -1,3 +1,6 @@
+Objective:
+Vrinda Store wants to create an Annual Sales Report for 2022. So that, Vrinda can understand their customers and grows more sales in 2023.
+
 Sample Questions:
 1. Compare the sales and orders using single chart.
 2. Which month got the highest sales and orders?
